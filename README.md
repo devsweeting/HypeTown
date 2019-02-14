@@ -18,6 +18,8 @@ J. Michael Brown, Charley McGowan, Chris Rudnicky, and Devin Sweeting
 
 On our site, you give a location and date range to generate a list of performances playing in within those parameters (based off of the Songkick API). Next this site generates a Spotify playlist based off of those artists return from first call. It then displays artists, venues, and event page link.
 
+SEE LIVE SITE HERE -> https://hypetown-epicodus.firebaseapp.com/
+
 ## Setup and Installation
 See [SETUP.md](./SETUP.md) for details about tools you may need to install and use to work on and use this project on your Mac.  
 
