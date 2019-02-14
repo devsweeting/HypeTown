@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "development": "hypetown-epicodus",
+    "default": "hypetown-epicodus"
+  }
+}

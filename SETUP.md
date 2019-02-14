@@ -26,6 +26,13 @@ export const spotifyAPIclientSecret: string = '[YOUR_Spotify_CLIENT_SECRET_GOES_
 ### Basic Setup
 You will need to have these tools installed on your machine. They may already be installed - see the 'Confirm installation' sections below.
 
+### CORS
+
+download the CORS chrome extension to allow the Spotify API call.
+
+https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en
+
+
 ### Install Node JS:
 This uses Homebrew:  
 
